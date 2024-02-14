@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alifnaiech
 - 👀 I’m interested in Angular, Typescript, .NetCore, Docker, Linux 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning AI
 - 📫 How to reach me: alifnaiech@gmail.com
 
 <!---
